@@ -1,3 +1,2 @@
-# geekforgeeks
-The repo has codes solution for geeksforgeeks progs.
+# sum of elements in the list
 https://www.geeksforgeeks.org/python-program-to-find-sum-of-elements-in-list/
