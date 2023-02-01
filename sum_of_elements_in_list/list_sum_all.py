@@ -8,6 +8,21 @@ class ListSum:
             total = total + ele_in_list
         return total
 
+    #add using recurssion
+    
+    #using while loop
+    
+    #sum method
+    
+    #add funtions
+    
+    #using enumuration
+    
+    #using list comprehensiton
+    
+    #using lambda functuion
+    
+    #using add operator
 
 
 item = [1,2,3,4,5]
