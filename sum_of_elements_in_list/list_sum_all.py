@@ -27,8 +27,6 @@ class ListSum:
     
     #using enumuration
     
-    #using list comprehensiton
-    
     #using lambda functuion
     
     #using add operator
