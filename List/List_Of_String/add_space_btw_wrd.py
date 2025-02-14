@@ -1,3 +1,5 @@
+#https://www.geeksforgeeks.org/python-add-space-between-potential-words/
+
 test_list = [ "gfgBest", "forGeeks", "andComputerScienceStudents"]
 
 #using for loop
@@ -9,7 +11,6 @@ for elements in test_list:
         if i.isupper():
             temp.append([])
         temp[-1].append(i)
-    for t in temp:
-        print("In temp")
-        res += "".join(t)
-        print(res)
+    res.append(' '.join(''.join(ele) for ele in temp))
+
+print(res)
