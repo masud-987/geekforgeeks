@@ -35,6 +35,7 @@ print(total)
 
 
 #Using dict.fromkeys()
+#https://www.geeksforgeeks.org/python-dictionary-fromkeys-method/
 a = [1,2,2,5,3,3,3,3]
 # Unique Elements
 uniq_vals = dict.fromkeys(a,"hi")
