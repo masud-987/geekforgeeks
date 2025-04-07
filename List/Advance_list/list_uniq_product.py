@@ -18,7 +18,7 @@ class Solution:
 
 
 #using counter
-class SolutionCounter():
+class SolutionCounter:
     def uniq_counter(self, nums: List[int]) -> int:
         self.no_duplicate = Counter(nums).keys()
         self.res = 1

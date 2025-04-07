@@ -7,6 +7,8 @@
 from typing import List
 
 
+### Method 3: Using a dictionary
+
 class FindFrequency:
     def __init__(self, input_list: List[int]):
         self.input_list = input_list
