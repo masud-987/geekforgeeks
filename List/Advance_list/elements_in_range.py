@@ -26,7 +26,7 @@ print(in_any)
 
 
 
-##above solution in the class
+## above solution in the class
 
 class Solution:
     def __init__(self, array, start, end):

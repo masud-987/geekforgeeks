@@ -36,3 +36,11 @@ items.sort()
 sol = FindFrequency(items)
 output = sol.sorting(1)
 print(output)
+
+
+
+a=7
+b=2
+
+print(a/b)
+print(items[3.5])
